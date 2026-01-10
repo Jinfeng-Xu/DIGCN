@@ -1,15 +1,15 @@
-# Dual Perspective Intermediate Fusion Graph Convolutional Network for Multimodal Recommendation with Large Language Models
+# Take a Step Back: A Dual-Granularity Raw Feature Empowered Intermediate Fusion Graph Convolutional Network for Multimodal Recommendation
 
 <!-- PROJECT LOGO -->
 
 ## Introduction
 
-This is the Pytorch implementation for our DENOTER paper:
+This is the Pytorch implementation for our DIGCN paper:
 
->Dual Perspective Intermediate Fusion Graph Convolutional Network for Multimodal Recommendation with Large Language Models
+>Take a Step Back: A Dual-Granularity Raw Feature Empowered Intermediate Fusion Graph Convolutional Network for Multimodal Recommendation
 
 ## Environment Requirement
-- python 3.9
+- Python 3.9
 - Pytorch 2.1.0
 
 ## Dataset
@@ -21,5 +21,3 @@ We provide four processed datasets: Baby, Sports, Pet, Office.
   cd ./src
   python main.py
   ```
-## Performance Comparison
-<img src="image/result.png" width="900px" height="380px"/>
