@@ -24,10 +24,15 @@ We provide four processed datasets: Baby, Sports, Pet, Office. [Link](https://dr
 
 ## Citing DIGCN
 
-If you find DIGCN useful in your research, please consider citing our [paper]().
+If you find DIGCN useful in your research, please consider citing our [paper](https://arxiv.org/pdf/2611.19974v1).
 
 ```
-
+@article{xu2026take,
+  title={Take a Step Back: A Dual-Granularity Raw Feature Empowered Intermediate Fusion Graph Convolutional Network for Multimodal Recommendation},
+  author={Xu, Jinfeng and Chen, Zheyu and Yang, Shuo and Li, Jinze and Yuan, Wenhao and Peng, Ziyue and Wu, Puzhen and Li, Shujie and Chen, Jian and Lin, Zheng and others},
+  journal={arXiv preprint arXiv:2611.19974},
+  year={2026}
+}
 ```
 
 
